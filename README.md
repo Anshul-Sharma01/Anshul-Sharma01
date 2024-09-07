@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://anshulsharma-portfolio.vercel.app/">My Portfolio </a>
 
-- 💬 Ask me about **Python, C++, Front-End, Back-End**
+- 💬 Ask me about **Java, Front-End, Back-End, ReactJs, TailwdindCss**
 
 - 📫 How to reach me **sharma.ansh2926@gmail.com**
 
