@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshul Sharma</h1>
 <h3 align="center">A passionate Web developer from India</h3>
+<img src="https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif" width="400px" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshul-sharma01&label=Profile%20views&color=0e75b6&style=flat" alt="anshul-sharma01" /> </p>
 
