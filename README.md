@@ -5,15 +5,17 @@
 </p>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=anshul-sharma01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="[https://komarev.com/ghpvc/?username=anshul-sharma01&label=Profile%20views&color=0e75b6&style=flat](https://webartdevelopers.com/blog/wp-content/uploads/2020/12/breathe-animated-neon-text.gif)" alt="Profile views" />
 </p>
 
 ---
 
 ### 🔭 Current Projects
 - 🌐 [My Portfolio](https://anshulsharma-portfolio.vercel.app/)
-- 📚 [Blog-io](https://github.com/Anshul-Sharma01/Blog-SPA-io)
 - 🌍 [Trips & Memories](https://github.com/Anshul-Sharma01/Trips-and-Memories)
+- 🍵 [Get-Me-A-Chai](https://github.com/Anshul-Sharma01/get-chai-project)
+- 🔗 [URL-Shortener](https://github.com/Anshul-Sharma01/nanolinks-nextjs-project)
+- 📚 [Blog-io](https://github.com/Anshul-Sharma01/Blog-SPA-io)
 
 ### 🌱 Currently Learning
 - **React.js**
