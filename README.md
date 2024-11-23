@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshul Sharma</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<p align="center">
-    <img src="[https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif](https://webartdevelopers.com/blog/wp-content/uploads/2020/12/breathe-animated-neon-text.gif)" alt="Animated GIF" width="400px" />
-</p>
+
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=anshul-sharma01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
