@@ -1,8 +1,9 @@
+<img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" height="400px"  />
+
 <h1 align="center">Hi 👋, I'm Anshul Sharma</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-
-<p align="center"> 
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=anshul-sharma01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
@@ -10,6 +11,8 @@
 
 ### 🔭 Current Projects
 - 🌐 [My Portfolio](https://anshulsharma-portfolio.vercel.app/)
+- 🛒 [U-Laundry](https://github.com/Anshul-Sharma01/U-Laundry)
+- 🤝💻 [DevTogether](https://github.com/Anshul-Sharma01/DevTogether)
 - 🌍 [Trips & Memories](https://github.com/Anshul-Sharma01/Trips-and-Memories)
 - 🍵 [Get-Me-A-Chai](https://github.com/Anshul-Sharma01/get-chai-project)
 - 🔗 [URL-Shortener](https://github.com/Anshul-Sharma01/nanolinks-nextjs-project)
