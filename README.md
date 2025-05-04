@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" height="400px"  />
+<img src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" height="400px"  />
 
 <h1 align="center">Hi 👋, I'm Anshul Sharma</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
@@ -10,7 +10,7 @@
 ---
 
 ### 🔭 Current Projects
-- 🌐 [My Portfolio](https://anshulsharma-portfolio.vercel.app/)
+- 🌐 [My Portfolio](https://anshulsharma.dev/)
 - 🛒 [U-Laundry](https://github.com/Anshul-Sharma01/U-Laundry)
 - 🤝💻 [DevTogether](https://github.com/Anshul-Sharma01/DevTogether)
 - 🌍 [Trips & Memories](https://github.com/Anshul-Sharma01/Trips-and-Memories)
@@ -19,10 +19,11 @@
 - 📚 [Blog-io](https://github.com/Anshul-Sharma01/Blog-SPA-io)
 
 ### 🌱 Currently Learning
-- **React.js**
+- **Artifical Intelligence**
+- **Redis**
 
 ### 👨‍💻 Projects Showcase
-- All of my projects are available at [My Portfolio](https://anshulsharma-portfolio.vercel.app/)
+- All of my projects are available at [My Portfolio](https://anshulsharma.dev)
 
 ### 💬 Ask Me About
 - **Java**, **Front-End Development**, **Back-End Development**, **React.js**, **Tailwind CSS**
