@@ -25,7 +25,7 @@
 const anshul = {
     location: "Saharanpur, India 🇮🇳",
     education: "B.E. CSE @ Chitkara University | CGPA: 9.48/10",
-    currentRole: "Web Developer Intern @ Cintamani Educational Society",
+    previousRole: "Web Developer Intern @ Cintamani Educational Society",
     currentlyLearning: ["Artificial Intelligence", "Redis", "System Design"],
     interests: ["Full-Stack Development", "Real-time Systems", "Clean Code"],
     askMeAbout: ["Java", "MERN Stack", "React.js", "Node.js", "REST APIs"],
