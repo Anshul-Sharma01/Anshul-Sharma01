@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=888780&center=true&vCenter=true&width=500&lines=Infra+%26+Automation+%7C+Backend+%7C+Frontend;Building+on+the+DevOps+%E2%86%92+SRE+path;Chitkara+University+%C2%B7+9.48+CGPA+%F0%9F%87%AE%F0%9F%87%B3" alt="subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=888780&center=true&vCenter=true&width=500&lines=Infra+%26+Automation+%7C+Backend+%7C+Frontend;Building+on+the+Infrastructre+&+Automation+path;Chitkara+University+%C2%B7+9.48+CGPA+%F0%9F%87%AE%F0%9F%87%B3" alt="subtitle" />
 </p>
 
 <div align="center">
